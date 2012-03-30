@@ -1,0 +1,1 @@
+This is the semester project for my Ruby on Rails class
